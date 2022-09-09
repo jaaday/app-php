@@ -1,0 +1,10 @@
+{
+    "name": "php/app-php",
+    "autoloads":
+    {
+        "psr-4": 
+        {
+            "App\\":"app/"
+        }
+    }
+}
