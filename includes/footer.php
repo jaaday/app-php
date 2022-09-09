@@ -1,11 +1,8 @@
-<footer class="pt-5 my-5 text-muted border-top">
-    Created by the Bootstrap team &middot; &copy; 2022
-  </footer>
-</div>
+        <!-- tag para fechar div container -->
+        </div>
 
+        <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
-    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
 
-      
-  </body>
 </html>
